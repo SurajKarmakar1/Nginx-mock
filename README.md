@@ -1,7 +1,7 @@
 
-```
-# Mini NGINX Server
 
+# Mini NGINX Server
+```
 A lightweight Node.js web server with built-in dashboard for monitoring requests and server statistics.
 
 ## 🚀 Features
